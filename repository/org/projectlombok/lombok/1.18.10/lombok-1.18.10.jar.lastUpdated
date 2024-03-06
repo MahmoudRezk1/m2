@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:05:28 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301510927
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301528832
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.projectlombok\:lombok\:jar\:1.18.10 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/projectlombok/lombok/1.18.10/lombok-1.18.10.jar, status\: 401 Unauthorized
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301514499

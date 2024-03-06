@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:04:51 EET 2023
+micrometer-bom-1.10.0.pom>central=
+micrometer-bom-1.10.0.pom>spring-release=

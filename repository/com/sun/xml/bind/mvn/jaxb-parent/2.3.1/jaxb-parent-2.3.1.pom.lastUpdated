@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:04:15 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301455287
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301455652
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.sun.xml.bind.mvn\:jaxb-parent\:pom\:2.3.1 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/com/sun/xml/bind/mvn/jaxb-parent/2.3.1/jaxb-parent-2.3.1.pom, status\: 401 Unauthorized
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301455480

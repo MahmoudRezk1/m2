@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:06:22 EET 2023
+aws-java-sdk-kms-1.11.16.jar>central=
+aws-java-sdk-kms-1.11.16.pom>central=

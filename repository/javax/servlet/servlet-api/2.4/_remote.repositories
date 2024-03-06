@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Oct 13 17:33:53 EET 2023
+servlet-api-2.4.jar>central=
+servlet-api-2.4.pom>central=
+servlet-api-2.4-sources.jar>wso2-nexus=

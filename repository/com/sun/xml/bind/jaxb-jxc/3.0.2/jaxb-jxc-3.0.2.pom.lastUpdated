@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Feb 16 09:39:25 EET 2024
+23d46075d293e4a2d8bdd332b46d6562e4c48412@localhost\:80>@default-central-https\://repo1.maven.org/maven2/.lastUpdated=1708069165064
+49ccc3e2114747b5b20787a7833d2182c1366ad2@localhost\:80>@default-jboss.community-https\://repository.jboss.org/nexus/content/repositories/public/.lastUpdated=1708069165067
+7a00c2bfc2bdd097c92e7249abb7b3adaf79d073@localhost\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1708069165061
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-jxc\:pom\:3.0.2 from/to central (https\://repo.maven.apache.org/maven2)\: Connection refused\: no further information
+https\://repo1.maven.org/maven2/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-jxc\:pom\:3.0.2 from/to central (https\://repo1.maven.org/maven2)\: Connection refused\: no further information
+https\://repository.jboss.org/nexus/content/repositories/public/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-jxc\:pom\:3.0.2 from/to jboss.community (https\://repository.jboss.org/nexus/content/repositories/public/)\: Connection refused\: no further information

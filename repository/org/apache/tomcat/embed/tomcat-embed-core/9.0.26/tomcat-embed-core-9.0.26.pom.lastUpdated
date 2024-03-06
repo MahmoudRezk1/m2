@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:04:27 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301467631
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301467856
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-core\:pom\:9.0.26 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/apache/tomcat/embed/tomcat-embed-core/9.0.26/tomcat-embed-core-9.0.26.pom, status\: 401 Unauthorized
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301467704

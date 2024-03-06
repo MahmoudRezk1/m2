@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:03:53 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301432714
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301433338
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.eclipse.jetty\:jetty-bom\:pom\:9.4.19.v20190610 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/eclipse/jetty/jetty-bom/9.4.19.v20190610/jetty-bom-9.4.19.v20190610.pom, status\: 401 Unauthorized
+https\://repository.jboss.org/nexus/content/repositories/releases/.error=
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301433167

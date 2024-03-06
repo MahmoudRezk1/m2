@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:04:58 EET 2023
+@default-spring-libs-milestone-https\://repo.spring.io/libs-milestone/.lastUpdated=1684562698522
+https\://repo.maven.apache.org/maven2/.lastUpdated=1684562698638
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact io.rest-assured\:rest-assured-parent\:pom\:5.2.1 from/to spring-libs-milestone (https\://repo.spring.io/libs-milestone)\: authentication failed for https\://repo.spring.io/libs-milestone/io/rest-assured/rest-assured-parent/5.2.1/rest-assured-parent-5.2.1.pom, status\: 401 Unauthorized

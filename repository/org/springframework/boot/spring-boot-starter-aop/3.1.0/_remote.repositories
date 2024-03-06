@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 23 11:46:19 EET 2023
+spring-boot-starter-aop-3.1.0.jar>central=
+spring-boot-starter-aop-3.1.0-sources.jar>central=
+spring-boot-starter-aop-3.1.0.pom>central=

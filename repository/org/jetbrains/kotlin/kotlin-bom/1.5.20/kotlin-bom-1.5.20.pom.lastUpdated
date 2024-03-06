@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:04:22 EET 2023
+@default-spring\ roo\ repository-https\://spring-roo-repository.springsource.org/release/.lastUpdated=1684562662138
+https\://repo.maven.apache.org/maven2/.lastUpdated=1684562662246
+https\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact org.jetbrains.kotlin\:kotlin-bom\:pom\:1.5.20 from/to spring roo repository (https\://spring-roo-repository.springsource.org/release)\: authorization failed for https\://spring-roo-repository.springsource.org/release/org/jetbrains/kotlin/kotlin-bom/1.5.20/kotlin-bom-1.5.20.pom, status\: 403 Forbidden

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:06:23 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301583782
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-site-renderer\:jar\:1.8.1 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/apache/maven/doxia/doxia-site-renderer/1.8.1/doxia-site-renderer-1.8.1.jar, status\: 401 Unauthorized

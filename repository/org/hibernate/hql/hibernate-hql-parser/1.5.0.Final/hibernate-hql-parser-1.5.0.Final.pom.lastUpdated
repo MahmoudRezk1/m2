@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:03:56 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301435710
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.hibernate.hql\:hibernate-hql-parser\:pom\:1.5.0.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/hibernate/hql/hibernate-hql-parser/1.5.0.Final/hibernate-hql-parser-1.5.0.Final.pom, status\: 401 Unauthorized
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301436115

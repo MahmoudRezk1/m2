@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Mar 28 02:18:35 EET 2023
+bson-4.8.2-sources.jar>central=
+bson-4.8.2.pom>central=
+bson-4.8.2.jar>central=
