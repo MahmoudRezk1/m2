@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Apr 08 14:51:27 EET 2023
+webjars-locator-core-0.52-sources.jar>central=
+webjars-locator-core-0.52.jar>central=
+webjars-locator-core-0.52.pom>central=

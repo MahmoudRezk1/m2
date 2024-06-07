@@ -1,0 +1,26 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:07:12 EET 2023
+@default-spring\ roo\ repository-https\://spring-roo-repository.springsource.org/release/.lastUpdated=1684562831121
+@default-spring-libs-milestone-https\://repo.spring.io/libs-milestone/.lastUpdated=1684562830459
+https\://download.eclipse.org/rt/eclipselink/maven.repo/.error=
+https\://download.eclipse.org/rt/eclipselink/maven.repo/.lastUpdated=1684562828799
+https\://maven.repository.redhat.com/ga/.error=
+https\://maven.repository.redhat.com/ga/.lastUpdated=1684562832856
+https\://nexus.flywaydb.org/repository/flyway/.error=
+https\://nexus.flywaydb.org/repository/flyway/.lastUpdated=1684562830300
+https\://packages.confluent.io/maven/.error=
+https\://packages.confluent.io/maven/.lastUpdated=1684562831797
+https\://repo.gradle.org/gradle/libs-releases-local/.error=
+https\://repo.gradle.org/gradle/libs-releases-local/.lastUpdated=1684562829931
+https\://repo.maven.apache.org/maven2/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1684562828107
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.infinispan\:infinispan-tools\:pom\:14.0.8.Final from/to spring-libs-milestone (https\://repo.spring.io/libs-milestone)\: authentication failed for https\://repo.spring.io/libs-milestone/org/infinispan/infinispan-tools/14.0.8.Final/infinispan-tools-14.0.8.Final.pom, status\: 401 Unauthorized
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1684562829417
+https\://repo1.maven.org/maven2/.error=
+https\://repo1.maven.org/maven2/.lastUpdated=1684562829470
+https\://repository.hazelcast.com/security-maven/.error=
+https\://repository.hazelcast.com/security-maven/.lastUpdated=1684562832352
+https\://spring-roo-repository.springsource.org/release/.error=Could not transfer artifact org.infinispan\:infinispan-tools\:pom\:14.0.8.Final from/to spring roo repository (https\://spring-roo-repository.springsource.org/release)\: authorization failed for https\://spring-roo-repository.springsource.org/release/org/infinispan/infinispan-tools/14.0.8.Final/infinispan-tools-14.0.8.Final.pom, status\: 403 Forbidden
+https\://www.datanucleus.org/downloads/maven2/.error=
+https\://www.datanucleus.org/downloads/maven2/.lastUpdated=1684562830922

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:06:18 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301578688
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301578838
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.openhtmltopdf\:openhtmltopdf-jsoup-dom-converter\:pom\:0.0.1-RC9 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/com/openhtmltopdf/openhtmltopdf-jsoup-dom-converter/0.0.1-RC9/openhtmltopdf-jsoup-dom-converter-0.0.1-RC9.pom, status\: 401 Unauthorized

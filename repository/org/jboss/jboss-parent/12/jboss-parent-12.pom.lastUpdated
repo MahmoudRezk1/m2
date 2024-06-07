@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Feb 26 11:50:20 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301452614
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677405020303
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.jboss\:jboss-parent\:pom\:12 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/jboss/jboss-parent/12/jboss-parent-12.pom, status\: 401 Unauthorized
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301453152

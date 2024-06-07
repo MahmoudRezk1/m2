@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:06:02 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301562735
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301562933
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.geronimo.genesis\:genesis-java5-flava\:pom\:2.0 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/apache/geronimo/genesis/genesis-java5-flava/2.0/genesis-java5-flava-2.0.pom, status\: 401 Unauthorized

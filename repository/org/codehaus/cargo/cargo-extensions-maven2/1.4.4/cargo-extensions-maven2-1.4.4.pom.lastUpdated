@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 14:34:56 EEST 2024
+@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1714476896866
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.codehaus.cargo\:cargo-extensions-maven2\:pom\:1.4.4 from/to jvnet-nexus-releases (https\://maven.java.net/content/repositories/releases/)\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+https\://repo.maven.apache.org/maven2/.lastUpdated=1714476896931

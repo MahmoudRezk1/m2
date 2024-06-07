@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 13:37:40 EET 2024
+@default-jvnet-nexus-releases-https\://maven.java.net/content/repositories/releases/.lastUpdated=1714477060243
+https\://maven.java.net/content/repositories/releases/.error=Could not transfer artifact org.apache.geronimo.genesis.config\:config\:pom\:1.1 from/to jvnet-nexus-releases (https\://maven.java.net/content/repositories/releases/)\: sun.security.validator.ValidatorException\: PKIX path building failed\: sun.security.provider.certpath.SunCertPathBuilderException\: unable to find valid certification path to requested target
+https\://repo.maven.apache.org/maven2/.lastUpdated=1714477060324

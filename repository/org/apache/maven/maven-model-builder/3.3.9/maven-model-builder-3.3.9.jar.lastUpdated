@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Feb 25 07:05:51 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301548621
+https\://repo.maven.apache.org/maven2/.lastUpdated=1677301551302
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.apache.maven\:maven-model-builder\:jar\:3.3.9 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/apache/maven/maven-model-builder/3.3.9/maven-model-builder-3.3.9.jar, status\: 401 Unauthorized

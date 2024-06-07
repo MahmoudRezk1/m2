@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:07:40 EET 2023
+@default-spring-libs-snapshot-https\://repo.spring.io/libs-snapshot/.lastUpdated=1684562860365
+https\://repo.maven.apache.org/maven2/.lastUpdated=1684562860475
+https\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact io.netty\:netty-bom\:pom\:4.1.65.Final from/to spring-libs-snapshot (https\://repo.spring.io/libs-snapshot)\: authentication failed for https\://repo.spring.io/libs-snapshot/io/netty/netty-bom/4.1.65.Final/netty-bom-4.1.65.Final.pom, status\: 401 Unauthorized

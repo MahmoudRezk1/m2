@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat May 20 08:02:18 EET 2023
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301583780
+https\://repo.maven.apache.org/maven2/.lastUpdated=1684562538032
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact com.ibm.icu\:icu4j\:jar\:58.1 from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/com/ibm/icu/icu4j/58.1/icu4j-58.1.jar, status\: 401 Unauthorized

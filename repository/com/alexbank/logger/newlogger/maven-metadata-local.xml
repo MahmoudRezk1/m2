@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.alexbank.logger</groupId>
+  <artifactId>newlogger</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240506193309</lastUpdated>
+  </versioning>
+</metadata>

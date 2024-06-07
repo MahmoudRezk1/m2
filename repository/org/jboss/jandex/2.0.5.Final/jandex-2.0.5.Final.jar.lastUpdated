@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri May 24 01:13:47 EET 2024
+https\://repo.spring.io/libs-release/.error=Could not transfer artifact org.jboss\:jandex\:jar\:2.0.5.Final from/to spring-releases (https\://repo.spring.io/libs-release)\: authentication failed for https\://repo.spring.io/libs-release/org/jboss/jandex/2.0.5.Final/jandex-2.0.5.Final.jar, status\: 401 Unauthorized
+@default-spring-releases-https\://repo.spring.io/libs-release/.lastUpdated=1677301510880
+https\://repo.maven.apache.org/maven2/.lastUpdated=1716506027434
+https\://repository.jboss.org/nexus/content/repositories/releases/.lastUpdated=1677301514482

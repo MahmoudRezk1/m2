@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+         xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <modelVersion>4.0.0</modelVersion>
+   <parent>
+      <groupId>org.infinispan</groupId>
+      <artifactId>infinispan-parent</artifactId>
+      <version>14.0.8.Final</version>
+      <relativePath>../pom.xml</relativePath>
+   </parent>
+
+   <artifactId>infinispan-commons-parent</artifactId>
+   <name>Infinispan Commons parent</name>
+   <packaging>pom</packaging>
+
+   <modules>
+      <module>all</module>
+      <module>all-jakarta</module>
+   </modules>
+
+   <profiles>
+      <profile>
+         <id>jdk19</id>
+         <activation>
+            <jdk>[19,)</jdk>
+         </activation>
+         <modules>
+            <module>jdk19</module>
+         </modules>
+      </profile>
+   </profiles>
+</project>
