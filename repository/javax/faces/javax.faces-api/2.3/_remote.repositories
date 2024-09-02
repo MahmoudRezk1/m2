@@ -1,4 +1,5 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat May 18 00:56:11 EEST 2024
-javax.faces-api-2.3.jar>central=
+#Wed Jul 31 13:41:03 EEST 2024
 javax.faces-api-2.3.pom>central=
+javax.faces-api-2.3.jar>central=
+javax.faces-api-2.3-sources.jar>central=

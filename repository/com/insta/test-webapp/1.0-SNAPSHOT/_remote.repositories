@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Aug 13 13:05:21 EEST 2024
+test-webapp-1.0-SNAPSHOT.pom>=
+test-webapp-1.0-SNAPSHOT.war>=
